@@ -96,6 +96,9 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.9.0)
     multi_json (1.12.1)
+    neat (1.7.4)
+      bourbon (>= 4.0)
+      sass (>= 3.3)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     padrino-helpers (0.12.7)
@@ -143,6 +146,7 @@ DEPENDENCIES
   middleman (~> 3.4.0)
   middleman-autoprefixer (~> 2.7.0)
   middleman-livereload (~> 3.1.0)
+  neat (~> 1.7.0)
 
 BUNDLED WITH
    1.11.2
